@@ -21,4 +21,4 @@
 - an admin can make another admin.
 
 ### `Server Side Repository`
-https://github.com/samiul-sheikh/doctors-portal-server
+## :link: [view server Repo](https://github.com/samiul-sheikh/doctors-portal-server)
